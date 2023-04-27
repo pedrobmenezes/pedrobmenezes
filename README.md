@@ -40,7 +40,7 @@ ________________________________________________________________________________
                  &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png?20190925171014" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;&nbsp;  
                  &nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;&nbsp;
                  &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/a3ca9ab3f109ea86b3f48844c0a8666073176af2/SVG/Power-BI.svg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;&nbsp;
-                 <img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" title="Databricks" alt="Databricks" width="150" height="50"/>
+                 &nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" title="Databricks" alt="Databricks" width="150" height="50"/>&nbsp;&nbsp;
 </div>
 
 
