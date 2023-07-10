@@ -1,12 +1,27 @@
 <h3 align="left">Oi, Eu sou Pedro Menezes ⚡</h3>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; Sou um analista de dados apaixonado por coletar, transformar e organizar dados para análises que ajudam na tomada de decisões, procurando sempre novas maneiras de melhorar minha capacidade de interpretação de dados e insights, para isso, procuro utilizar meus conhecimentos em Análise e Desenvolvimento de Sistemas, Ciências Econômicas e Ciências Contábeis para transformar dados em informações valiosas para as empresas e organizações.&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; Sou um analista de dados apaixonado por transformar informações complexas em insights valiosos. Com uma formação acadêmica diversificada em Análise e Desenvolvimento de Sistemas, Ciências Econômicas e Ciências Contábeis, estou preparado para enfrentar os desafios do mundo dos dados, oferecendo insights acionáveis e impulsionando a tomada de decisões estratégicas.&nbsp;&nbsp;&nbsp;&nbsp;
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp; Tenho formação acadêmica em Análise e Desenvolvimento de Sistemas, com certificação Google Data Analytics e certificação em Análise de Dados pela Escola Nacional de Administração Pública (ENAP), o que me permite aplicar as melhores práticas em análise de dados para extrair o máximo de valor dos dados coletados.&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; Combinando habilidades técnicas e conhecimentos nas áreas de economia e contabilidade, possuo uma perspectiva única para analisar e interpretar dados, oferecendo uma visão abrangente dos desafios e oportunidades de negócios. Sou capacitado em coletar, limpar, transformar e analisar grandes volumes de dados, utilizando ferramentas e tecnologias modernas.&nbsp;&nbsp;&nbsp;&nbsp;
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp; Além disso, possuo pós-graduação em Teologia e em Ciências Políticas, o que me permite ter uma visão mais ampla e aprofundada de questões sociais, culturais e éticas que podem impactar as análises de dados e as decisões tomadas a partir delas.&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; Certificações e Aprendizado Contínuo:
 <br><br>
-Tenho curiosidade sobre tudo e uma sede insaciável de aprender! ⚡
+Tenho a certificação de Data Analytics do Google, o que me permite aplicar técnicas e ferramentas avançadas para extrair insights significativos a partir de conjuntos de dados complexos. Além disso, obtive a certificação de Análise de Dados da ENAP, o que me proporciona uma abordagem fundamentada e atualizada em análise de dados no contexto governamental.&nbsp;&nbsp;&nbsp;&nbsp;
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Minhas principais competências incluem:
+<br><br>
+• Banco de dados: Expertise em estruturas de bancos de dados, normalização, modelagem e otimização de consultas.
+• ETL: Habilidade em extrair e transformar dados de diversas fontes, garantindo a integridade e qualidade dos mesmos antes de carregá-los em sistemas de análise.
+• Análise e Visualização de Dados: Experiência em técnicas estatísticas e análise exploratória de dados para identificar padrões, tendências e insights relevantes.
+• Linguagens de Programação: SQL, Python e R. para manipulação e análise avançada de dados. Conhecimento em VBA para automatizar tarefas e melhorar a eficiência dos processos.
+• Ferramentas e Plataformas: Tableau, Power BI, BigQuery e Databricks, utilizando essas ferramentas para realizar análises complexas e desenvolver soluções de BI.
+&nbsp;&nbsp;&nbsp;&nbsp;
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Visão Ampliada:
+<br><br>
+Além da minha formação técnica, também tenho pós-graduação em Teologia e Ciências Políticas, o que me proporciona uma visão ampla e contextualizada das implicações que permeiam a análise de dados.
+<br><br>
+⚡ Estou comprometido em aprender continuamente e acompanhar as tendências e avanços na área de análise de dados. Combinando minha experiência acadêmica diversificada, certificações atualizadas e habilidades técnicas, estou pronto para enfrentar desafios complexos e agregar valor por meio de análises de dados perspicazes colaborando para impulsionar o sucesso do seu negócio.&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
 <br>
