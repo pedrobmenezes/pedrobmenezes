@@ -4,11 +4,11 @@
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp; Combinando habilidades técnicas e conhecimentos nas áreas de economia e contabilidade, possuo uma perspectiva única para analisar e interpretar dados, oferecendo uma visão abrangente dos desafios e oportunidades de negócios. Sou capacitado em coletar, limpar, transformar e analisar grandes volumes de dados, utilizando ferramentas e tecnologias modernas.&nbsp;&nbsp;&nbsp;&nbsp;
 <br><br>
-**Certificações e Aprendizado Contínuo:**
+<b>Certificações e Aprendizado Contínuo:</b>
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Tenho a certificação de Data Analytics do Google, o que me permite aplicar técnicas e ferramentas avançadas para extrair insights significativos a partir de conjuntos de dados complexos. Além disso, obtive a certificação de Análise de Dados da ENAP, o que me proporciona uma abordagem fundamentada e atualizada em análise de dados no contexto governamental.&nbsp;&nbsp;&nbsp;&nbsp;
 <br><br>
-**Minhas principais competências incluem:**
+<b>Minhas principais competências incluem:</b>
 <br><br>
 • Banco de dados: Expertise em estruturas de bancos de dados, normalização, modelagem e otimização de consultas.<br>
 • ETL: Habilidade em extrair e transformar dados de diversas fontes, garantindo a integridade e qualidade dos mesmos antes de carregá-los em sistemas de análise.<br>
@@ -17,7 +17,7 @@
 • Ferramentas e Plataformas: Tableau, Power BI, BigQuery e Databricks, utilizando essas ferramentas para realizar análises complexas e desenvolver soluções de BI.
 &nbsp;&nbsp;&nbsp;&nbsp;
 <br><br>
-**Visão Ampliada:**
+<b>Visão Ampliada:</b>
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Além da minha formação técnica, também tenho pós-graduação em Teologia e Ciências Políticas, o que me proporciona uma visão ampla e contextualizada das implicações que permeiam a análise de dados.
 <br><br>
